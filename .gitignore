@@ -1,0 +1,35 @@
+# Kotlin / Java
+*.class
+*.jar
+*.war
+*.log
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+out/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.env
+**/.env
+docker-compose.override.yml
+
+# Node (if you add UIs later)
+node_modules/
+
+# Misc
+*.swp
