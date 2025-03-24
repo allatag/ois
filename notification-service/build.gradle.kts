@@ -1,5 +1,7 @@
 plugins {
-    kotlin("jvm") version "2.1.10"
+    kotlin("jvm")
+    id("org.springframework.boot")
+    id("io.spring.dependency-management")
 }
 
 group = "org.allatag"

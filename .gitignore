@@ -12,6 +12,8 @@ out/
 
 # IntelliJ
 .idea/
+.idea/gradle.xml
+.idea/libraries
 *.iml
 *.ipr
 *.iws
