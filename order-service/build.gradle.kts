@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "org.allatag"
-version = "1.0-SNAPSHOT"
+version = "unspecified"
 
 repositories {
     mavenCentral()
@@ -15,4 +15,7 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+kotlin {
+    jvmToolchain(23)
 }
