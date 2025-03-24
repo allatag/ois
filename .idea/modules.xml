@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/invoice-service.iml" filepath="$PROJECT_DIR$/invoice-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-service.iml" filepath="$PROJECT_DIR$/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ois.iml" filepath="$PROJECT_DIR$/.idea/ois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service.iml" filepath="$PROJECT_DIR$/order-service.iml" />
+    </modules>
+  </component>
+</project>
